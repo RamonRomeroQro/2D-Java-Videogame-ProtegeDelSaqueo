@@ -1,0 +1,14 @@
+// sounds
+
+inGame policeIsClose.wav
+button1 button1.wav
+button2 button2.wav
+button3 button3.wav
+gunshot1 gunshot1.wav
+gunshot2 gunshot2.wav
+gunshot3 gunshot3.wav
+mainMenu mainMenu.wav
+gameOver gameOver.wav
+button button1.wav
+
+
